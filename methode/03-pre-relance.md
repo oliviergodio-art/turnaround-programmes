@@ -58,7 +58,7 @@ Contenu attendu :
 Contenu attendu :
 - Le passage du doute au risque : ce qui change quand une question devient un risque nommé.
 - Ce que contient le registre, au minimum.
-- Pourquoi il est central : c'est lui que le sponsor et les piliers regarderont pendant toute l'exécution.
+- Pourquoi il est central : c'est lui que le sponsor et les piliers regarderont pendant toute l'exécution (phase 4).
 
 ❓ **[À préciser — il manque la pratique réelle : le format du registre, qui porte chaque risque (le lecteur seul, ou chaque pilier les siens), et comment il est utilisé après le kickoff]**
 
@@ -71,7 +71,7 @@ Contenu attendu :
 Contenu attendu :
 - Le rappel des quatre niveaux et de leur rigidité : objectifs tenus, plan fluide, jalons mobiles.
 - La forme de la vision telle qu'elle est présentée : une page, un schéma, un récit. ❓ **[À préciser — il manque la pratique réelle : la forme réelle donnée à la vision au kickoff]**
-- Le cas du **nouveau nom de programme** : quand relancer, c'est aussi renommer. 🔧 **[À concevoir — quand et pourquoi on renomme ; critères à poser]**
+- **Renommer le programme.** Relancer peut vouloir dire renommer. Ça se traite directement avec le sponsor, jamais seul. Ça se matérialise en affichant les objectifs, ou en disant qu'on a besoin de rassembler les troupes. La version douce — incrémenter, « projet v2 » — dit *suite* plutôt que *rupture*, donc pas de désaveu de ce que le sponsor a lancé. ✅ **[Prêt à écrire — la matière est suffisante]**
 
 ---
 
@@ -83,6 +83,7 @@ Contenu attendu :
 - On y annonce **les rôles de chacun, et le sien**. C'est la première fois que l'équipe entend le lecteur dire quelque chose qui ressemble à un cadre — et ça passe parce que les piliers savaient déjà : personne d'important ne découvre son rôle en public.
 - Le critère : l'engagement des piliers est acquis *avant* la réunion. Si on y négocie, c'est qu'on est en avance.
 - Ce qu'on montre : la vision (§4), le plan et ses jalons, le registre des risques (§3).
+- Une règle de fonctionnement à poser dès le kickoff, parce qu'elle sera rappelée à chaque jalon : les réunions ne servent pas à chercher l'information, elle arrive avant (phase 4, §2).
 
 ✅ **[Prêt à écrire — la matière est suffisante]** — ❓ **[À préciser — il manque la pratique réelle : l'ordre du jour d'un kickoff de relance réel]**
 
@@ -94,5 +95,4 @@ Contenu attendu :
 - ❓ Déroulé de l'atelier de friction (§2)
 - ❓ Format, portage et usage du registre des risques (§3)
 - ❓ Forme de la vision au kickoff (§4)
-- 🔧 Critères pour renommer le programme (§4)
 - ❓ Ordre du jour d'un kickoff de relance (§5)

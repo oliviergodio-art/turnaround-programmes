@@ -15,6 +15,8 @@
 
 **À qui elle s'adresse.** À quiconque reprend **sous mandat** — PMO, manager de transition, chef de programme, directeur de projet — quel que soit le sponsor : une personne, un CODIR, un COMEX, une direction de programme. Il y a toujours un sponsor ; la méthode est écrite depuis la position de celui qui lui rend compte.
 
+**Prérequis.** Le lecteur est à l'aise dans un contexte de gestion de projet : il connaît les six points de maîtrise — qualité, coûts, délais, risques, ressources, périmètre — et n'a pas besoin qu'on les lui explique. Ce n'est pas un cours de gestion de projet, et la méthode reste courte à dessein.
+
 **Ce qu'elle n'est pas.** Une posture. Le lecteur doit savoir quoi faire lundi matin, pas comment se tenir.
 
 **Le mécanisme.** On dirige par la question, pas par l'injonction. Les questions servent des objectifs que l'on a fixés soi-même, après analyse du terrain — main de fer sur les objectifs, gant de velours sur le plan.
@@ -31,10 +33,10 @@ L'erreur type que la méthode corrige : être rigide sur le plan et souple sur l
 1. [Immersion](01-immersion.md) — ouvrir les vannes, prendre les leviers en main. *Ordre de grandeur : une semaine.*
 2. [Légitimité](02-legitimite.md) — faire ratifier les objectifs par le sponsor, trouver les piliers, tenir les 1:1. *Ordre de grandeur : un mois.*
 3. [Pré-relance](03-pre-relance.md) — construire le plan avec les piliers, finaliser la vision, formaliser les risques, relancer par un kickoff. *Phase centrale.*
-4. [Pleine puissance](04-pleine-puissance.md) — exécuter, absorber les déviations du plan. *D'une semaine à trois mois selon la taille du programme.*
+4. [Pleine puissance](04-pleine-puissance.md) — coordonner, maîtriser les risques, réévaluer le plan, objectif intermédiaire par objectif intermédiaire. *D'une semaine à trois mois après le kickoff selon la taille du programme.*
 
-**Les quatre domaines d'analyse** : scope, parties prenantes, objectifs, risques. Leur contenu mûrit de phase en phase — en immersion, la vision n'existe pas encore (ce sont les *premiers objectifs*) et les risques sont des *doutes sous forme de questions* ; en pré-relance, les doutes deviennent un registre des risques et la vision se finalise.
+**Les domaines d'analyse.** La méthode travaille surtout le périmètre, les parties prenantes, les objectifs, les délais et les risques. Leur contenu mûrit de phase en phase — en immersion, la vision n'existe pas encore (ce sont les *premiers objectifs*) et les risques sont des *doutes sous forme de questions* ; en pré-relance, les doutes deviennent un registre des risques et la vision se finalise. Coûts et ressources ne sont pas encore traités : 🔧 **[À concevoir — une section courte, ou rien ; à décider sans allonger la méthode]**
 
-**Ce que la méthode n'écrit pas** — *sujet mis de côté, à reprendre.* Une partie du métier s'assimile dans l'échange et l'exploration, pas dans des outils. Celui qui trace tout et cadre tout par écrit passe à côté. La méthode dit *quoi* externaliser ; elle laisse le reste à l'assimilation, et le dit. Question ouverte : cette part s'apprend-elle aussi, et comment ?
+**Ce que la méthode n'écrit pas** — *sujet mis de côté, à reprendre.* Une partie du métier s'assimile dans l'échange et l'exploration, pas dans des outils. Celui qui trace tout et cadre tout par écrit passe à côté. La méthode dit *quoi* externaliser ; elle laisse le reste à l'assimilation, et le dit. C'est aussi ce que le prérequis suppose : l'instinct du chef de projet. Question ouverte : cette part s'apprend-elle aussi, et comment ?
 
 **Nom de la méthode** : non tranché. « PMO inversé » désigne le mécanisme (la question comme instrument de pilotage, le sens du flux inversé au moment de la reprise) ; il est peut-être trop étroit pour une méthode de montée en puissance. À décider quand les quatre phases seront écrites.
