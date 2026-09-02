@@ -21,7 +21,7 @@ Contenu attendu, sous forme de liste brève :
 - Pas de défense de son profil. Se faire connaître, oui ; se justifier, non.
 - Parler trop est *l'erreur fondamentale* : tout se joue au démarrage, et une erreur de communication à ce moment se rattrape difficilement.
 
-✅ **Prêt à écrire**
+✅ **[Prêt à écrire — la matière est suffisante]**
 
 ---
 
@@ -34,7 +34,7 @@ Contenu attendu :
 - Le lien avec le mécanisme général : on s'adapte *d'abord*, délibérément et pour un temps borné ; le cadre viendra (section 6 dit quand).
 - Une phrase sur ce que cette semaine achète : la légitimité qui rendra le cadre acceptable.
 
-✅ **Prêt à écrire** — attention à ne pas laisser cette section devenir un texte sur la posture. Trois paragraphes maximum.
+✅ **[Prêt à écrire — la matière est suffisante]** — attention à ne pas laisser cette section devenir un texte sur la posture. Trois paragraphes maximum.
 
 ---
 
@@ -44,7 +44,7 @@ Contenu attendu :
 
 Contenu attendu :
 - Pourquoi les rituels et pas les entretiens : on voit le collectif fonctionner, on ne fait pas parler les gens hors contexte, on ne crée pas de charge.
-- Comment repérer les rituels et lesquels prioriser en premier. ❓ **Question à Oliv** — *par quoi commences-tu concrètement, et qu'est-ce que tu laisses pour la semaine 2 ?*
+- Comment repérer les rituels et lesquels prioriser en premier. ❓ **[À préciser — il manque la pratique réelle : par quels rituels commence-t-on concrètement, et lesquels laisse-t-on pour la semaine 2 ?]**
 - Comportement en rituel : écouter, noter les questions qu'on se pose (pas les réponses), quelques questions à la volée au plus.
 - Les 1:1 avec les personnes impactantes viennent *après* la semaine 1 (et continuent tout au long). Une ligne pour le dire, pas plus — le sujet est traité au mois 1.
 
@@ -55,10 +55,10 @@ Contenu attendu :
 *Objectif : donner le script. Le lecteur doit pouvoir le dire tel quel le lundi matin, puis l'oublier.*
 
 Contenu attendu :
-- Le script d'ouverture, 30 secondes maximum : qui je suis, mon rôle, sur quoi je vais travailler. À écrire mot pour mot, comme un exemple à adapter. ✅ **Prêt à écrire** sur la structure, ❓ **Question à Oliv** pour la formulation réelle.
+- Le script d'ouverture, 30 secondes maximum : qui je suis, mon rôle, sur quoi je vais travailler. À écrire mot pour mot, comme un exemple à adapter. ✅ **[Prêt à écrire — la matière est suffisante]** sur la structure ; ❓ **[À préciser — il manque la pratique réelle : la formulation exacte utilisée en mission]**
 - Puis les deux questions qui ouvrent les vannes : *comment tu t'appelles, qu'est-ce que tu fais.*
 - Ensuite : curiosité, écoute active. Les lieux informels (café, couloir) comptent autant que les rituels.
-- Deux ou trois relances quand ça ne vient pas. ❓ **Question à Oliv**
+- Deux ou trois relances quand ça ne vient pas. ❓ **[À préciser — il manque la pratique réelle : les relances qui fonctionnent quand la personne ne parle pas]**
 
 ---
 
@@ -72,7 +72,7 @@ Contenu attendu :
 - La règle : on n'est pas une boîte à questions. Une question posée est une question qu'on n'a pas pu résoudre seul.
 - Quand on les pose : pas en semaine 1 pour la plupart. Elles alimentent les 1:1 du mois 1 et le rapport d'étonnement.
 
-✅ **Prêt à écrire**
+✅ **[Prêt à écrire — la matière est suffisante]**
 
 ---
 
@@ -86,23 +86,23 @@ Contenu attendu :
 
 Quatre chapitres, dans cet ordre :
 1. **Scope** — ce que le programme couvre, ce qu'il ne couvre pas, ce qui est flou.
-2. **Parties prenantes** — le *qui fait quoi* tel qu'observé (pas tel qu'écrit dans l'organigramme). Forme à définir : liste, carte, tableau. ❓ **Question à Oliv**
+2. **Parties prenantes** — le *qui fait quoi* tel qu'observé (pas tel qu'écrit dans l'organigramme). ❓ **[À préciser — il manque la pratique réelle : la forme donnée au qui-fait-quoi — liste, carte, tableau ?]**
 3. **Premiers objectifs** — ce qui semble devoir être vrai à la fin, tel qu'on le perçoit après cinq jours. Pas la vision : elle n'existe pas encore.
 4. **Doutes** — les risques à ce stade sont des questions, pas des risques. On les liste comme telles.
 
-Pour chaque chapitre : ce qu'on y met, ce qu'on n'y met pas, un exemple. ✅ **Prêt à écrire** sur la structure, ❓ **Question à Oliv** pour les exemples.
+Pour chaque chapitre : ce qu'on y met, ce qu'on n'y met pas, un exemple. ✅ **[Prêt à écrire — la matière est suffisante]** sur la structure ; ❓ **[À préciser — il manque la pratique réelle : un exemple anonymisé par chapitre]**
 
 ### 5.2 La roadmap d'intégration
 
 *Objectif : planifier sa propre montée en puissance, pas celle du programme. C'est le plan du lecteur pour les semaines 2 à 4.*
 
-Contenu attendu : les 1:1 à tenir et dans quel ordre, les rituels à rejoindre, les documents à lire, les questions de route (b) et (c) à placer. ❓ **Question à Oliv** — *à quoi ressemble la tienne, concrètement ?*
+Contenu attendu : les 1:1 à tenir et dans quel ordre, les rituels à rejoindre, les documents à lire, les questions de route (b) et (c) à placer. ❓ **[À préciser — il manque la pratique réelle : le contenu concret d'une roadmap d'intégration telle qu'elle a été faite en mission]**
 
 ### 5.3 Le canvas projet
 
 *Objectif éventuel : une page qui tient les quatre chapitres du rapport d'étonnement sur un seul support, pour le lecteur qui préfère un canevas à un texte.*
 
-🔧 **À concevoir** — hors de la pratique actuelle. À décider : remplace-t-il le rapport d'étonnement, le complète-t-il, ou n'existe-t-il pas ? Ne pas écrire cette section tant que la décision n'est pas prise.
+🔧 **[À concevoir — n'existe pas dans la pratique actuelle, à inventer ou à supprimer]** — à décider : remplace-t-il le rapport d'étonnement, le complète-t-il, ou n'existe-t-il pas ? Ne pas écrire cette section tant que la décision n'est pas prise.
 
 ---
 
@@ -117,16 +117,16 @@ On pose son cadre quand trois conditions sont réunies :
 
 Si l'une manque : la semaine 2 se fait en mode semaine 1. Ce n'est pas un échec, c'est le critère qui fonctionne.
 
-✅ **Prêt à écrire** sur les trois conditions. ❓ **Question à Oliv** sur la troisième : *comment on appréhende une culture en cinq jours, concrètement — qu'est-ce qu'on regarde ?* C'est la condition la plus difficile à rendre applicable par un inconnu.
+✅ **[Prêt à écrire — la matière est suffisante]** sur les trois conditions ; ❓ **[À préciser — il manque la pratique réelle : comment on appréhende une culture en cinq jours — qu'est-ce qu'on regarde, concrètement ?]** C'est la condition la plus difficile à rendre applicable par un inconnu.
 
 ---
 
-## ❓ Questions ouvertes (récapitulatif)
+## Récapitulatif des points ouverts
 
-- Par quels rituels commencer, lesquels laisser (§2)
-- Formulation réelle du script d'ouverture et deux ou trois relances (§3)
-- Forme du *qui fait quoi* (§5.1)
-- Un exemple par chapitre du rapport d'étonnement (§5.1)
-- Contenu réel d'une roadmap d'intégration (§5.2)
+- ❓ Par quels rituels commencer, lesquels laisser (§2)
+- ❓ Formulation réelle du script d'ouverture et deux ou trois relances (§3)
+- ❓ Forme du *qui fait quoi* (§5.1)
+- ❓ Un exemple anonymisé par chapitre du rapport d'étonnement (§5.1)
+- ❓ Contenu réel d'une roadmap d'intégration (§5.2)
 - 🔧 Décision sur le canvas projet (§5.3)
-- Comment on lit une culture en cinq jours (§6)
+- ❓ Comment on lit une culture en cinq jours (§6)

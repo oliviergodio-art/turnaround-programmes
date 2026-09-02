@@ -4,7 +4,10 @@
 
 > Squelette de travail. Chaque fichier décrit la structure d'une partie et l'objectif de chaque section. Le texte est écrit ensuite, par l'auteur.
 >
-> **Marqueurs d'état** — ✅ **Prêt à écrire** : la matière est là. ❓ **Question à Oliv** : il manque la pratique réelle, la question est dans la section. 🔧 **À concevoir** : n'existe pas dans la pratique actuelle, à inventer ou à supprimer.
+> **Marqueurs d'état, lisibles sans contexte**
+> - ✅ **[Prêt à écrire — la matière est suffisante]**
+> - ❓ **[À préciser — il manque la pratique réelle : …]** suivi de la question exacte à laquelle l'auteur doit répondre avant d'écrire.
+> - 🔧 **[À concevoir — n'existe pas dans la pratique actuelle, à inventer ou à supprimer]**
 
 ## Colonne vertébrale (hypothèse de travail)
 
