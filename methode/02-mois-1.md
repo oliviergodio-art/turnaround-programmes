@@ -6,7 +6,7 @@
 
 **Ce que le lecteur doit pouvoir faire après lecture.** Dérouler les semaines 2 à 4 dans le bon ordre : explorer, présenter au sponsor, faire de la politique, tenir les 1:1, co-construire, réunir. Et savoir à quoi il reconnaît qu'il est devenu légitime.
 
-**Longueur cible.** Courte. La section 3 est la plus longue et la plus délicate ; c'est elle qui décide si la méthode est lue comme du pilotage ou comme de la manipulation.
+**Longueur cible.** Courte. La section 3 est la plus longue et la plus délicate ; c'est elle qui décide si le lecteur comprend le jeu politique comme une recherche de leviers au service du programme.
 
 ---
 
@@ -50,9 +50,9 @@ Contenu attendu :
 
 ---
 
-## 3. La politique : identifier qui permet de construire le plan
+## 3. Le jeu politique : trouver les leviers
 
-*Objectif : donner la grille. Faire de la politique, c'est identifier clairement les parties prenantes qui permettent de construire le plan, et comprendre ce qui les fait bouger. C'est la section la plus utile et la plus dangereuse de la méthode.*
+*Objectif : donner la grille. Faire de la politique, c'est identifier clairement les parties prenantes qui permettent de construire le plan, et comprendre ce qui les fait bouger. C'est la section la plus utile de la méthode, et celle qui demande le plus de précision dans les mots.*
 
 ### 3.1 La grille des leviers
 
@@ -72,16 +72,16 @@ Quand rien n'impacte la personne — ni difficulté, ni objectif, ni les contrai
 
 ✅ **[Prêt à écrire — la matière est suffisante]** — ❓ **[À préciser — il manque la pratique réelle : comment on reconnaît un robot en deux échanges, et à quoi ressemble le process strict qu'on lui applique]**
 
-### 3.4 La limite
+### 3.4 La règle du jeu
 
-*Objectif : dire ce qui sépare cette section d'un manuel de manipulation. Ce sont des jeux d'influence — la méthode ne le cache pas. Elle pose la règle qui les rend légitimes.*
+*Objectif : dire ce qui rend ce jeu politique légitime. Les leviers servent le programme ; la méthode pose la règle qui le garantit.*
 
 Contenu attendu, trois règles :
 - Ce qu'on obtient sert l'objectif du programme, jamais un camp. On reste le stabilisateur.
 - Ce qu'on promet à une partie prenante doit être vrai : le plan lui apporte réellement ce qu'on a dit.
 - Test : si la partie prenante lisait cette section, se sentirait-elle utilisée ou comprise ? Si c'est « utilisée », on est sorti de la méthode.
 
-❓ **[À préciser — décision d'auteur : la méthode assume-t-elle ouvertement les jeux d'influence en posant cette limite, ou préfère-t-elle ne pas les nommer ? Le squelette prend la première option ; à confirmer.]**
+❓ **[À préciser — décision d'auteur : le vocabulaire et le périmètre de cette section sont à revoir par l'auteur ; le squelette propose trois règles, à confirmer, reformuler ou remplacer.]**
 
 ---
 
@@ -106,7 +106,7 @@ Contenu attendu :
 Contenu attendu :
 - Co-construire, c'est impliquer : le projet devient **leur bébé**.
 - Le lien avec les quatre niveaux : les objectifs sont déjà tenus (par le sponsor, §2) ; le plan est libre, il peut dévier ; les jalons sont des objectifs intermédiaires qu'on déplace avec lui.
-- La frontière avec le mois 3 : ici on obtient l'engagement sur un premier plan ; l'exécution, les déviations et leur traitement sont l'objet de l'horizon suivant.
+- La frontière avec l'horizon suivant : ici on obtient l'engagement sur un premier plan ; l'exécution, les déviations et leur traitement sont l'objet de la pleine puissance.
 
 ✅ **[Prêt à écrire — la matière est suffisante]** sur le principe — ❓ **[À préciser — il manque la pratique réelle : comment se passe concrètement la co-construction — en 1:1 successifs, en atelier, sur quel support ?]**
 
@@ -131,7 +131,7 @@ Contenu attendu :
 - ❓ Format de la présentation au sponsor (§2)
 - ❓ Exemple anonymisé de grille des leviers (§3.1)
 - ❓ Reconnaître un robot, et le process qu'on lui applique (§3.3)
-- ❓ Décision d'auteur sur la limite : assumer ouvertement ou ne pas nommer (§3.4)
+- ❓ Décision d'auteur sur la règle du jeu : vocabulaire et périmètre (§3.4)
 - ❓ Durée, fréquence, déroulé type des 1:1 (§4)
 - ❓ Forme concrète de la co-construction (§5)
 - ❓ Ordre du jour d'un kickoff (§6)
