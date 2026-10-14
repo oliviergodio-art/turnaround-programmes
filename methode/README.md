@@ -33,7 +33,12 @@ L'erreur type que la méthode corrige : être rigide sur le plan et souple sur l
 1. [Immersion](01-immersion.md) — ouvrir les vannes, prendre les leviers en main. *Ordre de grandeur : une semaine.*
 2. [Légitimité](02-legitimite.md) — faire ratifier les objectifs par le sponsor, trouver les piliers, tenir les 1:1. *Ordre de grandeur : un mois.*
 3. [Pré-relance](03-pre-relance.md) — construire le plan avec les piliers, finaliser la vision, formaliser les risques, relancer par un kickoff. *Phase centrale.*
-4. [Pleine puissance](04-pleine-puissance.md) — gérer les aléas : coordonner, maîtriser les risques, réévaluer le plan, objectif intermédiaire par objectif intermédiaire. Un projet n'est pas un long fleuve tranquille. *D'une semaine à trois mois après le kickoff selon la taille du programme.*
+4. [Pleine puissance](04-pleine-puissance.md) — gérer les aléas : coordonner, maîtriser les risques, réévaluer le plan, objectif intermédiaire par objectif intermédiaire. Un projet n'est pas un long fleuve tranquille.
+
+Les projets vivent, parfois meurent pour en laisser place à d'autre, il se peut que le même projet ait à renaitre de ses cendres, soit stoppé puis redémarrer. Il faudra tout répéter : 
+- à partir de la phase 1 si le scope ou les objectifs change complètement
+- à partir de la phase 2 si les parties prenantes changent
+- à partir de la phase 3 puis 4 il faut systématiquement prendre le temps replanifier
 
 **Les domaines d'analyse.** La méthode travaille surtout le périmètre, les parties prenantes, les objectifs, les délais et les risques. Leur contenu mûrit de phase en phase — en immersion, la vision n'existe pas encore (ce sont les *premiers objectifs*) et les risques sont des *doutes sous forme de questions* ; en pré-relance, les doutes deviennent un registre des risques et la vision se finalise. Coûts et ressources ne sont pas encore traités : 🔧 **[À concevoir — une section courte, ou rien ; à décider sans allonger la méthode]**
 
