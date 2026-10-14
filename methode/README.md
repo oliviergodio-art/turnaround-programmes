@@ -40,8 +40,8 @@ Les projets vivent, parfois meurent pour en laisser place à d'autre, il se peut
 - à partir de la phase 2 si les parties prenantes changent
 - à partir de la phase 3 puis 4 il faut systématiquement prendre le temps replanifier
 
-**Les domaines d'analyse.** La méthode travaille surtout le périmètre, les parties prenantes, les objectifs, les délais et les risques. Leur contenu mûrit de phase en phase — en immersion, la vision n'existe pas encore (ce sont les *premiers objectifs*) et les risques sont des *doutes sous forme de questions* ; en pré-relance, les doutes deviennent un registre des risques et la vision se finalise. Coûts et ressources ne sont pas encore traités : 🔧 **[À concevoir — une section courte, ou rien ; à décider sans allonger la méthode]**
+**Les domaines d'analyse.** La méthode travaille surtout le périmètre, les parties prenantes, les objectifs, les délais et les risques. Leur contenu mûrit de phase en phase — en immersion, la vision n'existe pas encore (ce sont les *premiers objectifs*) et les risques sont des *doutes sous forme de questions* ; en pré-relance, les doutes deviennent un registre des risques et la vision se finalise.
 
-**Ce que la méthode n'écrit pas** — *sujet mis de côté, à reprendre.* Une partie du métier s'assimile dans l'échange et l'exploration, pas dans des outils. Celui qui trace tout et cadre tout par écrit passe à côté. La méthode dit *quoi* externaliser ; elle laisse le reste à l'assimilation, et le dit. C'est aussi ce que le prérequis suppose : l'instinct du chef de projet. Question ouverte : cette part s'apprend-elle aussi, et comment ?
+**Ce que la méthode n'écrit pas** — *sujet mis de côté, à reprendre.* Une partie du métier s'assimile dans l'échange et l'exploration, pas dans des outils. Celui qui trace tout et cadre tout par écrit passe à côté. La méthode dit *quoi* externaliser ; elle laisse le reste à l'assimilation, et le dit.
 
-**Nom de la méthode** : non tranché. « PMO inversé » désigne le mécanisme (la question comme instrument de pilotage, le sens du flux inversé au moment de la reprise) ; il est peut-être trop étroit pour une méthode de montée en puissance. À décider quand les quatre phases seront écrites.
+**Nom de la méthode** : Manager de projet inversé.
